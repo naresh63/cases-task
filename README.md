@@ -68,3 +68,46 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ // const tableData = [
+  //   {
+  //     id: 1,
+  //     caseNumber: "11001",
+  //     title: "",
+  //     product: "AC repair",
+  //     subStatus: "New",
+  //     status: "Open",
+  //   },
+  //   {
+  //     id: 2,
+  //     caseNumber: "11002",
+  //     title: "Booking",
+  //     product: "AC repair",
+  //     subStatus: "New",
+  //     status: "Open",
+  //   },
+  //   {
+  //     id: 3,
+  //     caseNumber: "11003",
+  //     title: "Booking",
+  //     product: "AC repair",
+  //     subStatus: "New",
+  //     status: "Open",
+  //   },
+  //   {
+  //     id: 4,
+  //     caseNumber: "11004",
+  //     title: "Booking",
+  //     product: "AC repair",
+  //     subStatus: "New",
+  //     status: "Open",
+  //   },
+  //   {
+  //     id: 5,
+  //     caseNumber: "11005",
+  //     title: "Booking",
+  //     product: "AC repair",
+  //     subStatus: "New",
+  //     status: "Open",
+  //   },
+  // ];

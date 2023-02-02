@@ -1,0 +1,46 @@
+[
+    {
+        "id":"1",
+        "case Number": "11001",
+        "Account Name":"JDM World Wide Fright Solutions Pvt Ltd ",
+        "Contact Name": "Nitin Mulay ",
+        "Mobile": "9004862660 ",
+        "Email": "nitin.mulay@dmcargoplanners.com ",
+        "Phone": "1234656725 ",
+        "Address": "B- 801, Sapphire Shelter, Plot no. 18/19, Sector- 15 ",
+        "Pin Code": "410011 ",
+        "Technician": " ",
+        "Priority": " ",
+        "Source": " ",
+        "Case Remarks": " ",
+        "Invoice Number": " ",
+        "Billable": " ",
+        "Package Service": " ",
+
+
+        "Case Type": "Booking ",
+        "Case title":"Booking",
+        "Product Category": " ",
+        "Product ": " ",
+        "Brand": " ",
+        "serial Number":" ",
+        "model":" ",
+        "Warrenty":" ",
+        "Problem":" ",
+        "Reason":" ",
+        "Quatity":" ",
+        "Product's other details":" ",
+        "Agent": "Tester ",
+        "Visibility": "Public "
+        
+        // "Case Status": "New",
+        // "Contact Number": " ",
+  
+    
+        // "Case Title": "Booking ",
+
+        // "Due Date": "02-02-2023 "
+ 
+    }
+        
+]
